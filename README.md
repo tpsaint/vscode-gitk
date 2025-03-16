@@ -1,7 +1,7 @@
 # vscode-gitk
 
 [![vscode version][vs-image]][vs-url]
-![][install-url]
+![Number of installations][install-url]
 ![][rate-url]
 ![][license-url]
 
